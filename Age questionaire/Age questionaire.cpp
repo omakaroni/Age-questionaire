@@ -9,12 +9,12 @@ int main()
 	std::cout << "Enter current year:\n";
 	std::cin >> currentyear;
 	age = currentyear - birthyear;
-	std::cout << "Your Age is :"<< age <<std::endl;
+	std::cout << "Your current age is :"<< age <<std::endl;
 if (age < 20) {
-	std::cout << "you are teenager";
+	std::cout << "You are a teenager";
 }
 else{
-	std::cout << "you are a boomer";
+	std::cout << "You are a boomer";
 }
 
 }
