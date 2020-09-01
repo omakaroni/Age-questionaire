@@ -14,7 +14,7 @@ if (age < 20) {
 	std::cout << "you are teenager";
 }
 else{
-	std::cout << "you are old";
+	std::cout << "you are a boomer";
 }
 
 }
